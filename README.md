@@ -16,11 +16,18 @@ You may also re-distribute this files to your local church communities for FREE.
 
 Please kindly report to us if you find anyone use this project for commercial purpose.
 
-# Updating
-
-This readme file is updating ... Audio files are uploading ...
-
 # Usage
 
-... updating
+In this repository, there are 66 zip files.  Each file contain audio files of a canonical book of the Chinese Union Version.
 
+To use the files, you need to download and unzip them.  After you unzip the files, you can find mp3 files arranged into chapters placed in separate folders.
+
+To download all files in one go, just click the following link:
+
+https://github.com/eliranwong/ChineseUnionVersionCantoneseMP3/archive/refs/heads/main.zip
+
+# Integration into Unique Bible App
+
+These files will also be integrated into Unique Bible App audio bible features.
+
+Read more at: https://github.com/eliranwong/UniqueBible
