@@ -12,7 +12,7 @@ This project aims to familiarise church community with Cantonese reading of Chin
 
 <a href="https://GospelChurch.uk">Gospel Church (UK)</a> provides these files for FREE.  For NON-commercial purpose ONLY.
 
-You may also re-distribute these files to your local church communities for FREE.  We only require you to give written credits to <a href="https://GospelChurch.uk">Gospel Church (UK)</a> when you re-distribute our files, so that users know the source of these files.
+You may also re-distribute these files to your local churches for FREE.  We only require you to give written credits to <a href="https://GospelChurch.uk">Gospel Church (UK)</a> when you re-distribute our files, so that users know the source of these files.
 
 Please kindly report to us if you find anyone use this project for commercial purpose.
 
