@@ -24,7 +24,7 @@ To use the files, you need to download and unzip them.  After you unzip the file
 
 To download all files in one go, just click the following link:
 
-# Download links
+# Download links 下載連結
 
 Download ALL Books in one go 一次性下載所有書卷:
 
@@ -102,5 +102,11 @@ Individual Books 下載個別書卷:
 # Integration into Unique Bible App
 
 These files will also be integrated into Unique Bible App audio bible features.
+
+If you want to download these files for use in Unique Bible App:
+
+1) create a folder named "CUV" in directory "UniqueBible/music"
+2) download zip files from this repository
+3) unzip all files in the folder "UniqueBible/music/CUV"
 
 Read more at: https://github.com/eliranwong/UniqueBible
