@@ -24,7 +24,15 @@ To use the files, you need to download and unzip them.  After you unzip the file
 
 To download all files in one go, just click the following link:
 
+# Download links
+
+ALL 66 Books:
+
 https://github.com/eliranwong/ChineseUnionVersionCantoneseMP3/archive/refs/heads/main.zip
+
+Individual Books:
+
+updating ...
 
 # Integration into Unique Bible App
 
