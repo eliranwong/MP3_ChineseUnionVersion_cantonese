@@ -2,7 +2,7 @@
 
 In this repository, we make available mp3 audio files on Cantonese bible reading of Chinese Union Version（中文和合本）.
 
-This project aims to familiarise church community with Cantonese reading of Chinese Union Version.  Young people, especially for those growing up in western countries, often find it difficult to pronounce bible words in Cantonese.  Even adults may occasionally find some words hard to pronounce.  May this resource bless those who like Cantonese reading.
+This project aims to familiarise church community with Cantonese reading of Chinese Union Version.  Young people, especially for those growing up in western countries, often find it difficult to pronounce bible words in Cantonese.  Even adults may occasionally find some words hard to pronounce in Cantonese.  May this resource bless those who like Cantonese reading.
 
 <b>WHO & HOW?</b> Files provided here are created by <a href="https://GospelChurch.uk">Revd Eliran Wong （黃以樂牧師）</a> with official "<a href='https://cloud.google.com/text-to-speech'>Google Cloud Text-to-Speech</a>" paid service and "<a href='https://github.com/eliranwong/UniqueBible'>Unique Bible App</a>".
 
