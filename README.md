@@ -118,6 +118,8 @@ Download Individual Books 下載個別書卷:
 
 # Integration into Unique Bible App
 
+Unique Bible App is a FREE and non-commercial bible software built for the church at large.
+
 These files will also be integrated into Unique Bible App audio bible features.
 
 If you want to download these files for use in Unique Bible App:
