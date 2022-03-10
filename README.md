@@ -8,6 +8,22 @@ This project aims to familiarise church community with Cantonese reading of Chin
 
 <b>Copyright?</b> There is no copyright issue, as the bible text of Chinese Union Version （中文和合本） is in public domain.
 
+# 中文簡介
+
+廣東話閱讀中文和合本聖經（MP3 下載）
+
+因應互聯網上甚難找到和合本聖經廣東話的語音版，英倫福音教會特此製作了一套廣東話的語音版，將中文和合本聖經的每一節經文存檔為 MP3 ，供喜愛用廣東話閱讀聖經的家人們免費下載。盼望此資源有助個人讀經生活，或幫助在英國長大的下一代用廣東話閱讀聖經。
+
+如果大家認為有用的話，歡迎下載或轉發此信息。
+
+所有下載鏈接可直接從此處找到：
+https://github.com/eliranwong/ChineseUnionVersionCantoneseMP3#download-links
+
+主僕
+黃以樂牧師
+英倫福音教會
+ https://GospelChurch.uk
+
 # Licensing - 100% FREE for Personal Use
 
 <a href="https://GospelChurch.uk">Gospel Church (UK)</a> provides these files for FREE.  For NON-commercial purpose ONLY.
