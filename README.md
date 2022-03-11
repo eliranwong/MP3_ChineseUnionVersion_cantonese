@@ -125,6 +125,9 @@ Files prvided here are also integrated into Unique Bible App audio bible feature
 Download from menu > Resources > Add > GitHub Bible MP3 Files:
 
 <img width="350" alt="Screenshot 2022-03-11 at 11 35 52" src="https://user-images.githubusercontent.com/25262722/157859994-61f4eec3-d67d-414f-8e23-1bb8e67eae94.png">
+
+Select "CUV (Cantonese)" and click Download:
+
 <img width="364" alt="Screenshot 2022-03-11 at 11 36 59" src="https://user-images.githubusercontent.com/25262722/157860006-fe0b5b7d-736c-4506-b13e-c919b8449f94.png">
 
 Open CUV and click the &#9834; button, right next to each chapter or verse number.
