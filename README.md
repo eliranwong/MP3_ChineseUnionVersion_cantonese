@@ -45,7 +45,7 @@ To download all files in one go, just click the following link:
 
 Download ALL Books in one go 一次性下載所有書卷:
 
-<a href='https://github.com/eliranwong/ChineseUnionVersionCantoneseMP3/archive/refs/heads/main.zip'>中文和合本聖經（全部６６卷書）</a>
+<a href='https://github.com/eliranwong/MP3_ChineseUnionVersion_cantonese/archive/refs/heads/main.zip'>中文和合本聖經（全部６６卷書）</a>
 
 Download Individual Books 下載個別書卷:
 
