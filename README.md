@@ -17,7 +17,7 @@ This project aims to familiarise church community with Cantonese reading of Chin
 如果大家認為有用的話，歡迎下載或轉發此信息。
 
 所有下載鏈接可直接從此處找到：<br>
-https://github.com/eliranwong/ChineseUnionVersionCantoneseMP3#download-links
+https://github.com/eliranwong/MP3_ChineseUnionVersion_cantonese#download-links
 
 主僕<br>
 黃以樂牧師<br>
