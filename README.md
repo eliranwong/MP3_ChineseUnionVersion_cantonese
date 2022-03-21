@@ -138,4 +138,4 @@ Open CUV and click the &#9834; button, right next to each chapter or verse numbe
 
 <img width="884" alt="Screenshot 2022-03-11 at 11 44 48" src="https://user-images.githubusercontent.com/25262722/157861193-8ded9e19-64ed-42f9-8064-8a6d1dff04ee.png">
 
-Read more about Unique Bible App at: https://github.com/eliranwong/UniqueBible
+Read more about Unique Bible App at: https://github.com/eliranwong/UniqueBible or https://github.com/eliranwong/UniqueBible/wiki/Verse-by-verse-MP3-Bible-audio
