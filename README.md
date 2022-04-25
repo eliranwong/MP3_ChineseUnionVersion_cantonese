@@ -10,18 +10,26 @@ This project aims to familiarise church community with Cantonese reading of Chin
 
 # 中文簡介
 
-廣東話閱讀中文和合本聖經（MP3 下載）
+廣東話閱讀中文和合本聖經
+（無需下載或安裝，有 YouTube 教學）
 
-因應互聯網上甚難找到和合本聖經廣東話的語音版，英倫福音教會特此製作了一套廣東話的語音版，將中文和合本聖經的每一節經文存檔為 MP3 ，供喜愛用廣東話閱讀聖經的家人們免費下載。盼望此資源有助個人讀經生活，或幫助在英國長大的下一代用廣東話閱讀聖經。
+英倫福音教會的聖經網站提供了廣東話語音功能，讓大家可以聆聽中文和合本聖經的內容。
 
-如果大家認為有用的話，歡迎下載或轉發此信息。
+您可以直接按下下面這個連結，來開啟中文和合本聖經的廣東話語音功能：
+https://bible.gospelchurch.uk/traditional.html?cmd=READCHAPTER:::CUV.1.1
 
-所有下載鏈接可直接從此處找到：<br>
-https://github.com/eliranwong/MP3_ChineseUnionVersion_cantonese#download-links
+YouTube 講解語音功能：
+https://youtu.be/0JKxwJzHWwM
 
-主僕<br>
-黃以樂牧師<br>
-英倫福音教會<br>
+簡介：
+作為信徒，我們都會閱讀或誦讀聖經，卻很少用聆聽的方式來學習聖經。
+我們希望通過此項資源，幫助信徒在讀經的基礎上，以聆聽作為輔助的方式邊讀邊聽，能更深刻領會主的話語。我們也希望這幫助成長於非廣東話語境的新生代，更多熟集聖經經文的廣東話發音。
+此外，文字閱讀能力不足或有視力障礙的人士，亦可以透過此資源更方便及有效地學習聖經。
+無論在乘車時、運動中或做家務期間都可以使用此資源隨時學習主的話語。
+
+主僕
+黃以樂牧師
+英倫福音教會
 https://GospelChurch.uk
 
 # License
